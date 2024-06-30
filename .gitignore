@@ -9,7 +9,9 @@
 *.xcuserstate
 UDP Client/UDP Client.xcodeproj/project.xcworkspace/
 UDP Server/UDP Client.xcodeproj/project.xcworkspace/
-xcuserdata/
+
+UDP Client/UDP Client.xcodeproj/xcuserdata/
+UDP Server/UDP Client.xcodeproj/xcuserdata/
 
 # Generated files
 *.o
