@@ -7,7 +7,8 @@
 *.mode2v3
 *.perspectivev3
 *.xcuserstate
-project.xcworkspace/
+UDP Client/UDP Client.xcodeproj/project.xcworkspace/
+UDP Server/UDP Client.xcodeproj/project.xcworkspace/
 xcuserdata/
 
 # Generated files
