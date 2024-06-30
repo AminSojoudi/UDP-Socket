@@ -8,10 +8,10 @@
 *.perspectivev3
 *.xcuserstate
 UDP Client/UDP Client.xcodeproj/project.xcworkspace/
-UDP Server/UDP Client.xcodeproj/project.xcworkspace/
+UDP Server/UDP Server.xcodeproj/project.xcworkspace/
 
 UDP Client/UDP Client.xcodeproj/xcuserdata/
-UDP Server/UDP Client.xcodeproj/xcuserdata/
+UDP Server/UDP Server.xcodeproj/xcuserdata/
 
 # Generated files
 *.o
